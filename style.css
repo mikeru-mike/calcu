@@ -1,0 +1,24 @@
+body{
+    margin: 0px;    
+    padding: 0px;
+    background-color:antiquewhite;
+    color:black;
+    text-align: center;    
+}
+h1{
+    font-size: 45px;    
+    font-style: italic; 
+}
+input{
+    width: 85px;    
+    height: 60px;
+    font-size: 50px;
+    border-radius: 15px;
+    margin: 5px;
+    background-color: aliceblue;
+    color: aliceblue;
+}
+.btn:hover{
+    background-color: rgb(255, 251, 251);
+    cursor: pointer;
+}
